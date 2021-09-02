@@ -2,7 +2,7 @@ export const data = {
   "key": "v-9ca70e6a",
   "path": "/guias-html/elementos-esenciales.html",
   "title": "etiquetas esenciales",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

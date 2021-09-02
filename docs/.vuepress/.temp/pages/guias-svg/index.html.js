@@ -2,7 +2,7 @@ export const data = {
   "key": "v-4a6ee924",
   "path": "/guias-svg/",
   "title": "SVG",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

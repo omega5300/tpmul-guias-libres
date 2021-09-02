@@ -2,7 +2,7 @@ export const data = {
   "key": "v-f909668c",
   "path": "/guias-html/elementos-scripting.html",
   "title": "elementos de scripting",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

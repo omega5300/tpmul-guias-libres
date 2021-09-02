@@ -2,7 +2,7 @@ export const data = {
   "key": "v-cb06839a",
   "path": "/guias-html/errores-comunes.html",
   "title": "errores comunes del HTML",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

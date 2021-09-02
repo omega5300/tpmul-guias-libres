@@ -2,7 +2,7 @@ export const data = {
   "key": "v-90c34c9a",
   "path": "/guias-animacion/",
   "title": "animacion",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

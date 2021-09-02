@@ -2,7 +2,7 @@ export const data = {
   "key": "v-a4920154",
   "path": "/guias-html/elmentos-principales.html",
   "title": "etiquetas principales",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

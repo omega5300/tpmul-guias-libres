@@ -2,7 +2,7 @@ export const data = {
   "key": "v-14da9957",
   "path": "/guias-html/elementos-de-info.html",
   "title": "etiquetas de info",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

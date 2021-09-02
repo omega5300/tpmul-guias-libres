@@ -2,7 +2,7 @@ export const data = {
   "key": "v-72144369",
   "path": "/guias-javascript/",
   "title": "javascript",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

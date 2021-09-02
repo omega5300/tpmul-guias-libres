@@ -1,6 +1,10 @@
 ---
+head:
+  - - link
+    - rel: canonical
+      href: https://tpmul-guias.web.app
 home: true
-heroImage: /tpmul-logo.svg
+heroImage: /img/tpmul-logo.svg
 tagline: 
 actions: 
 - text: Inicio de la guia →

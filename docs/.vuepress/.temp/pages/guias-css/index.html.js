@@ -2,7 +2,7 @@ export const data = {
   "key": "v-4a679965",
   "path": "/guias-css/",
   "title": "CSS",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

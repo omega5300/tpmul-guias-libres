@@ -2,8 +2,32 @@ export const data = {
   "key": "v-02d26e2b",
   "path": "/guias-html/",
   "title": "HTML",
-  "lang": "es",
-  "frontmatter": {},
+  "lang": "es-CO",
+  "frontmatter": {
+    "head": [
+      [
+        "meta",
+        {
+          "name": "keywords",
+          "content": "tpmul html"
+        }
+      ],
+      [
+        "meta",
+        {
+          "name": "description",
+          "content": "pagina de inicio para la seccion HTML"
+        }
+      ],
+      [
+        "link",
+        {
+          "rel": "canonical",
+          "href": "https://tpmul-guias.web.app/guias-html/"
+        }
+      ]
+    ]
+  },
   "excerpt": "",
   "headers": [
     {

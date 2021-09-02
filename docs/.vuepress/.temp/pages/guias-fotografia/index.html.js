@@ -2,7 +2,7 @@ export const data = {
   "key": "v-c3abc16c",
   "path": "/guias-fotografia/",
   "title": "fotografia",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

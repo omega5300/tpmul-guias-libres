@@ -1,3 +1,16 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: tpmul html
+  - - meta
+    - name: description
+      content: pagina de inicio para la seccion HTML
+  - - link
+    - rel: canonical
+      href: https://tpmul-guias.web.app/guias-html/
+---
+
 # HTML
 
 HTML (Hypertext Markup Languaje) es un lenguaje de marcado cuyo propósito principal es para dar la estructura a los sitios web

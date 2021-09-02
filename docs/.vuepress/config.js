@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  lang: 'es',
+  lang: 'es-CO',
   title: 'TPMUL guias',
   description,
   head: [

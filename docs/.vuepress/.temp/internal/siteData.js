@@ -1,6 +1,6 @@
 export const siteData = {
   "base": "/",
-  "lang": "es",
+  "lang": "es-CO",
   "title": "TPMUL guias",
   "description": "guias abiertas para el programa producción multimedia",
   "head": [

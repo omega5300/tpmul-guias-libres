@@ -2,7 +2,7 @@ export const data = {
   "key": "v-56c3e1fc",
   "path": "/guias-html/elementos-de-tablas.html",
   "title": "tablas",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

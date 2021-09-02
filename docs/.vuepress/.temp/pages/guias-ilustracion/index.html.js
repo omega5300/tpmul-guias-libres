@@ -2,7 +2,7 @@ export const data = {
   "key": "v-0b210c21",
   "path": "/guias-ilustracion/",
   "title": "guias ilustracion",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

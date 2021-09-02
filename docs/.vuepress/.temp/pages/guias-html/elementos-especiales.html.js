@@ -2,7 +2,7 @@ export const data = {
   "key": "v-a7e22002",
   "path": "/guias-html/elementos-especiales.html",
   "title": "etiquetas especiales en HTML",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

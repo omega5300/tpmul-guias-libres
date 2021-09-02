@@ -2,7 +2,7 @@ export const data = {
   "key": "v-dd7dab6a",
   "path": "/guias-html/elementos-de-texto.html",
   "title": "etiquetas de texto",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

@@ -2,7 +2,7 @@ export const data = {
   "key": "v-aab83268",
   "path": "/guias-html/elementos-de-formularios.html",
   "title": "formularios",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

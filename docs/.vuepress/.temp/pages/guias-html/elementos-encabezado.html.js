@@ -2,7 +2,7 @@ export const data = {
   "key": "v-6989ea65",
   "path": "/guias-html/elementos-encabezado.html",
   "title": "encabezado y meta-datos",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

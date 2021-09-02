@@ -2,7 +2,7 @@ export const data = {
   "key": "v-697e9af5",
   "path": "/guias-html/elementos-de-listas.html",
   "title": "listas",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

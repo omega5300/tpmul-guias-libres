@@ -2,7 +2,7 @@ export const data = {
   "key": "v-3e5c4b9c",
   "path": "/guias-audiovisual/",
   "title": "video",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

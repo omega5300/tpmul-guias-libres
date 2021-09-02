@@ -2,10 +2,19 @@ export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
   "title": "",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {
+    "head": [
+      [
+        "link",
+        {
+          "rel": "canonical",
+          "href": "https://tpmul-guias.web.app"
+        }
+      ]
+    ],
     "home": true,
-    "heroImage": "/tpmul-logo.svg",
+    "heroImage": "/img/tpmul-logo.svg",
     "tagline": null,
     "actions": [
       {

@@ -2,7 +2,7 @@ export const data = {
   "key": "v-1e3c94d4",
   "path": "/guias-webcomponets/",
   "title": "web components",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],

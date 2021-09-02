@@ -2,7 +2,7 @@ export const data = {
   "key": "v-0c5850a0",
   "path": "/guias-html/example-html.html",
   "title": "HTML ejemplos",
-  "lang": "es",
+  "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
