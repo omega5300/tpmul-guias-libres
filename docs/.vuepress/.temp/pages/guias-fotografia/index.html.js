@@ -1,11 +1,18 @@
 export const data = {
   "key": "v-c3abc16c",
   "path": "/guias-fotografia/",
-  "title": "fotografia",
+  "title": "fotografía",
   "lang": "es-CO",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "tipos de cámaras",
+      "slug": "tipos-de-camaras",
+      "children": []
+    }
+  ],
   "filePathRelative": "guias-fotografia/README.md",
   "git": {
     "updatedTime": 1630382817000,

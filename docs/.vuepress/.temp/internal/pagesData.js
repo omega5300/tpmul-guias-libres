@@ -9,6 +9,20 @@ export const pagesData = {
   "v-4a679965": () => import(/* webpackChunkName: "v-4a679965" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-css/index.html.js").then(({ data }) => data),
   // path: /guias-fotografia/
   "v-c3abc16c": () => import(/* webpackChunkName: "v-c3abc16c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/index.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/ajustes-fotograficos.html
+  "v-459a35aa": () => import(/* webpackChunkName: "v-459a35aa" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/ajustes-fotograficos.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/composicion.html
+  "v-a32ac4b0": () => import(/* webpackChunkName: "v-a32ac4b0" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/composicion.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/iluminacion.html
+  "v-74bbe49d": () => import(/* webpackChunkName: "v-74bbe49d" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/iluminacion.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/tecnicas-fotografia.html
+  "v-3e9eb05c": () => import(/* webpackChunkName: "v-3e9eb05c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tecnicas-fotografia.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/tipos-de-disparo.html
+  "v-201ff791": () => import(/* webpackChunkName: "v-201ff791" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-disparo.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/tipos-de-fotografia.html
+  "v-79a7bfb9": () => import(/* webpackChunkName: "v-79a7bfb9" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-fotografia.html.js").then(({ data }) => data),
+  // path: /guias-fotografia/tipos-de-planos.html
+  "v-3c117610": () => import(/* webpackChunkName: "v-3c117610" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-planos.html.js").then(({ data }) => data),
   // path: /guias-html/
   "v-02d26e2b": () => import(/* webpackChunkName: "v-02d26e2b" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-html/index.html.js").then(({ data }) => data),
   // path: /guias-html/elementos-de-formularios.html

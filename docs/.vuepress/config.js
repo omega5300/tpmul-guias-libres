@@ -94,6 +94,22 @@ themeConfig: {
         ]
       }
     ],
+      '/guias-fotografia/': [
+        {
+          title: 'fotografia',
+          collapsable: true,
+          children: [
+            'README.md',
+            'tipos-de-disparo.md',
+            'tipos-de-planos.md',
+            'composicion.md',
+            'ajustes-fotograficos.md',
+            'iluminacion.md',
+            'tecnicas-fotografia.md',
+            'tipos-de-fotografia.md'
+          ]
+        }
+      ] 
     }
 },
 }

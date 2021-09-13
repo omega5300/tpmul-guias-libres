@@ -28,9 +28,294 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "fotografia",
-    "headers": [],
+    "title": "fotografía",
+    "headers": [
+      {
+        "level": 2,
+        "title": "tipos de cámaras",
+        "slug": "tipos-de-camaras",
+        "children": []
+      }
+    ],
     "path": "/guias-fotografia/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "ajustes fotográficos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "exposición",
+        "slug": "exposicion",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "diafragma",
+        "slug": "diafragma",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "iso",
+        "slug": "iso",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "velocidad de obturación",
+        "slug": "velocidad-de-obturacion",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "sensor",
+        "slug": "sensor",
+        "children": [
+          {
+            "level": 3,
+            "title": "resolución del sensor",
+            "slug": "resolucion-del-sensor",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "funcionamiento del sensor",
+            "slug": "funcionamiento-del-sensor",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "megapixeles",
+        "slug": "megapixeles",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "propociones de la imagen",
+        "slug": "propociones-de-la-imagen",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "formatos JPEG y RAW",
+        "slug": "formatos-jpeg-y-raw",
+        "children": [
+          {
+            "level": 3,
+            "title": "imagen JPEG",
+            "slug": "imagen-jpeg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "temperatura del color",
+        "slug": "temperatura-del-color",
+        "children": [
+          {
+            "level": 3,
+            "title": "balance de blancos",
+            "slug": "balance-de-blancos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "medición de luz",
+        "slug": "medicion-de-luz",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "modos de enfoque",
+        "slug": "modos-de-enfoque",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "modo flash",
+        "slug": "modo-flash",
+        "children": []
+      }
+    ],
+    "path": "/guias-fotografia/ajustes-fotograficos.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "composición",
+    "headers": [],
+    "path": "/guias-fotografia/composicion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "iluminación",
+    "headers": [
+      {
+        "level": 2,
+        "title": "luz",
+        "slug": "luz",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "luz natural",
+        "slug": "luz-natural",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "luz artificial",
+        "slug": "luz-artificial",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "luces de estudio",
+        "slug": "luces-de-estudio",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "equipo basico para iluminación de estudio",
+        "slug": "equipo-basico-para-iluminacion-de-estudio",
+        "children": []
+      }
+    ],
+    "path": "/guias-fotografia/iluminacion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "técnicas de fotografía",
+    "headers": [
+      {
+        "level": 2,
+        "title": "clave alta",
+        "slug": "clave-alta",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "clave baja",
+        "slug": "clave-baja",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "fotografia infrarroja",
+        "slug": "fotografia-infrarroja",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "larga exposición diurna",
+        "slug": "larga-exposicion-diurna",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "barrido",
+        "slug": "barrido",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "astrofotográfia",
+        "slug": "astrofotografia",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "lightpainting",
+        "slug": "lightpainting",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ráfaga",
+        "slug": "rafaga",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gota de agua",
+        "slug": "gota-de-agua",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "bokeh",
+        "slug": "bokeh",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "zooming",
+        "slug": "zooming",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "multiexposición",
+        "slug": "multiexposicion",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "doble exposición",
+        "slug": "doble-exposicion",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "monocromatico",
+        "slug": "monocromatico",
+        "children": []
+      }
+    ],
+    "path": "/guias-fotografia/tecnicas-fotografia.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tipos de disparo",
+    "headers": [],
+    "path": "/guias-fotografia/tipos-de-disparo.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tipos de fotográfia",
+    "headers": [],
+    "path": "/guias-fotografia/tipos-de-fotografia.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tipos de planos y ángulos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "planos",
+        "slug": "planos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ángulos",
+        "slug": "angulos",
+        "children": []
+      }
+    ],
+    "path": "/guias-fotografia/tipos-de-planos.html",
     "pathLocale": "/",
     "extraFields": []
   },
