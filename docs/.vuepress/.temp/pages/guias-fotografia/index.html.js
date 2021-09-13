@@ -15,12 +15,12 @@ export const data = {
   ],
   "filePathRelative": "guias-fotografia/README.md",
   "git": {
-    "updatedTime": 1630382817000,
+    "updatedTime": 1631502681000,
     "contributors": [
       {
         "name": "omega5300",
         "email": "omegamatrix5351@gmail.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

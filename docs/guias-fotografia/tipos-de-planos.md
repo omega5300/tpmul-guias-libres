@@ -10,7 +10,7 @@ plano panorámico
   
 plano general
 : se denomina así cuando el sujeto u objeto del encuadre, es tomado de pies a cabeza.
-  ![plano general](/img/fotografia/general-jpg)
+  ![plano general](/img/fotografia/general.jpg)
   
 plano americano
 : encuadre desde la rodillas hasta la cabeza del sujeto
