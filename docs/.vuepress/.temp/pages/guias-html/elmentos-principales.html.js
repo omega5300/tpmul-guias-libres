@@ -2,7 +2,7 @@ export const data = {
   "key": "v-a4920154",
   "path": "/guias-html/elmentos-principales.html",
   "title": "etiquetas principales",
-  "lang": "es-CO",
+  "lang": "es",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -48,17 +48,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

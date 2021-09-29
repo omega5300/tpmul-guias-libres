@@ -2,7 +2,7 @@ export const data = {
   "key": "v-a7e22002",
   "path": "/guias-html/elementos-especiales.html",
   "title": "etiquetas especiales en HTML",
-  "lang": "es-CO",
+  "lang": "es",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -42,17 +42,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

@@ -2,7 +2,7 @@ export const data = {
   "key": "v-cb06839a",
   "path": "/guias-html/errores-comunes.html",
   "title": "errores comunes del HTML",
-  "lang": "es-CO",
+  "lang": "es",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -86,17 +86,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

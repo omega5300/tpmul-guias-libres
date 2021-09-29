@@ -2,7 +2,7 @@ export const data = {
   "key": "v-aab83268",
   "path": "/guias-html/elementos-de-formularios.html",
   "title": "formularios",
-  "lang": "es-CO",
+  "lang": "es",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -103,17 +103,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

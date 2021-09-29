@@ -13,7 +13,7 @@ features:
 - title: guias de desarrollo web
   details: las guias para desarrollo web son lideras por omega5300
 - title: guias de diseño grafico
-  details: las guias para desarrollo web son creadas por ?
+  details: las guias para desarrollo web son creadas por omega5300 en la guia de fotografía
 - title: guias audiovisual
   details: las guias para desarrollo web son creadas por ?
 footer: guias formativas bajo licencia CC-BY-NC-SA

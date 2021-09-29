@@ -2,7 +2,7 @@ export const data = {
   "key": "v-0d6e67b6",
   "path": "/guias-html/elementos-multimedia.html",
   "title": "multimedia en HTML",
-  "lang": "es-CO",
+  "lang": "es",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -122,17 +122,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

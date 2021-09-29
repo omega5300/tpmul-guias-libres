@@ -81,6 +81,41 @@ export const themeData = {
           "tipos-de-fotografia.md"
         ]
       }
+    ],
+    "/guias-css/": [
+      {
+        "title": "HTML",
+        "collapsable": true,
+        "children": [
+          "README.md",
+          "example-css.md",
+          "valores-de-css.md",
+          "reglas-css.md",
+          "cascada-y-herencia.md",
+          "prefijos-propietarios.md",
+          "selectores.md",
+          "pseudoelementos.md",
+          "pseudoclases.md",
+          "box-model.md",
+          "background-guide.md",
+          "texto.md",
+          "multimedia.md",
+          "listas.md",
+          "tablas.md",
+          "animaciones.md",
+          "media-queries.md",
+          "flujo-normal.md",
+          "responsive-design.md",
+          "maquetacion-basica.md",
+          "flexbox.md",
+          "grid.md",
+          "columns.md",
+          "compatibilidad.md",
+          "resets.md",
+          "metodologias.md",
+          "errores-comunes.md"
+        ]
+      }
     ]
   },
   "locales": {
@@ -110,17 +145,4 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateThemeData) {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ themeData }) => {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  })
 }

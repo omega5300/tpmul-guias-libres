@@ -22,8 +22,1357 @@ export const searchIndex = [
   },
   {
     "title": "CSS",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "historia de CSS",
+        "slug": "historia-de-css",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "versiones de CSS",
+        "slug": "versiones-de-css",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "video de la historia de HTML",
+        "slug": "video-de-la-historia-de-html",
+        "children": []
+      }
+    ],
     "path": "/guias-css/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "animaciones",
+    "headers": [
+      {
+        "level": 2,
+        "title": "ventajas de animaciones",
+        "slug": "ventajas-de-animaciones",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "animation",
+        "slug": "animation",
+        "children": [
+          {
+            "level": 3,
+            "title": "animation-name",
+            "slug": "animation-name",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-duration",
+            "slug": "animation-duration",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-timing-function",
+            "slug": "animation-timing-function",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-delay",
+            "slug": "animation-delay",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-iteration-count",
+            "slug": "animation-iteration-count",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-direction",
+            "slug": "animation-direction",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-fill-mode",
+            "slug": "animation-fill-mode",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "animation-play-state",
+            "slug": "animation-play-state",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "transitions",
+        "slug": "transitions",
+        "children": [
+          {
+            "level": 3,
+            "title": "transition-property",
+            "slug": "transition-property",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "transition-duration",
+            "slug": "transition-duration",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "transition-timing-function",
+            "slug": "transition-timing-function",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "transition-delay",
+            "slug": "transition-delay",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/animaciones.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "background",
+    "headers": [
+      {
+        "level": 2,
+        "title": "background-color",
+        "slug": "background-color",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "background-image",
+        "slug": "background-image",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "background-repeat",
+        "slug": "background-repeat",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de background-repeat",
+            "slug": "valores-de-background-repeat",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "background-size",
+        "slug": "background-size",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de background-size",
+            "slug": "valores-de-background-size",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "background-position",
+            "slug": "background-position",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "valores de background-position",
+            "slug": "valores-de-background-position",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "background-attachment",
+        "slug": "background-attachment",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "degradados",
+        "slug": "degradados",
+        "children": [
+          {
+            "level": 3,
+            "title": "tipos de degradados",
+            "slug": "tipos-de-degradados",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/background-guide.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "box model",
+    "headers": [
+      {
+        "level": 2,
+        "title": "partes del box-model",
+        "slug": "partes-del-box-model",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "elementos de bloque y elementos de linea",
+        "slug": "elementos-de-bloque-y-elementos-de-linea",
+        "children": [
+          {
+            "level": 3,
+            "title": "como se comporta los elementos de bloque",
+            "slug": "como-se-comporta-los-elementos-de-bloque",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "como se comporta los elementos de linea",
+            "slug": "como-se-comporta-los-elementos-de-linea",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "diferentes tipos de pantallas (display)",
+        "slug": "diferentes-tipos-de-pantallas-display",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "width y height",
+        "slug": "width-y-height",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "box-sizing",
+        "slug": "box-sizing",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "margin",
+        "slug": "margin",
+        "children": [
+          {
+            "level": 3,
+            "title": "colapsado de margenes",
+            "slug": "colapsado-de-margenes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "border",
+        "slug": "border",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de border-style",
+            "slug": "valores-de-border-style",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "border-radius",
+            "slug": "border-radius",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "pading",
+        "slug": "pading",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/box-model.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "cascada y herencia",
+    "headers": [
+      {
+        "level": 2,
+        "title": "herencia",
+        "slug": "herencia",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de herencia",
+            "slug": "valores-de-herencia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "cascada",
+        "slug": "cascada",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ejemplos",
+        "slug": "ejemplos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "especificidad",
+        "slug": "especificidad",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de especificidad",
+            "slug": "valores-de-especificidad",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/cascada-y-herencia.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "sistema de columnas",
+    "headers": [],
+    "path": "/guias-css/columns.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "compatibilidad con navegadores antiguos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "uso de fallback",
+        "slug": "uso-de-fallback",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "autoprefixer",
+        "slug": "autoprefixer",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/compatibilidad.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "errores comunes",
+    "headers": [],
+    "path": "/guias-css/errores-comunes.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "ejemplos de CSS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "como utilizar el CSS",
+        "slug": "como-utilizar-el-css",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/example-css.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "flexbox",
+    "headers": [
+      {
+        "level": 2,
+        "title": "porque flexbox",
+        "slug": "porque-flexbox",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "modelos de flexbox",
+        "slug": "modelos-de-flexbox",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "columnas y filas de flexbox",
+        "slug": "columnas-y-filas-de-flexbox",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "wrapping",
+        "slug": "wrapping",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "flex-flow shorthand",
+        "slug": "flex-flow-shorthand",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "dimensionamiento de los objetos de flexbox",
+        "slug": "dimensionamiento-de-los-objetos-de-flexbox",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "shorthand vs longhand",
+        "slug": "shorthand-vs-longhand",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "propiedades de flexbox",
+        "slug": "propiedades-de-flexbox",
+        "children": [
+          {
+            "level": 3,
+            "title": "flex-direction",
+            "slug": "flex-direction",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "flex-wrap",
+            "slug": "flex-wrap",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "flex-flow",
+            "slug": "flex-flow",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "flex-grow",
+            "slug": "flex-grow",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "flex-shrink",
+            "slug": "flex-shrink",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "flex-basis",
+            "slug": "flex-basis",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "flex (shorthand)",
+            "slug": "flex-shorthand",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "align-items",
+            "slug": "align-items",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "align-self",
+            "slug": "align-self",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "justify-content",
+            "slug": "justify-content",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "order",
+            "slug": "order",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/flexbox.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "flujo normal",
+    "headers": [],
+    "path": "/guias-css/flujo-normal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "grid",
+    "headers": [
+      {
+        "level": 2,
+        "title": "que se trata el diseño grid",
+        "slug": "que-se-trata-el-diseno-grid",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "propiedades de grid",
+        "slug": "propiedades-de-grid",
+        "children": [
+          {
+            "level": 3,
+            "title": "funcion minmax()",
+            "slug": "funcion-minmax",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-column-start",
+            "slug": "grid-column-start",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-column-end",
+            "slug": "grid-column-end",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-column",
+            "slug": "grid-column",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-row-start",
+            "slug": "grid-row-start",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-row-end",
+            "slug": "grid-row-end",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-row",
+            "slug": "grid-row",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-template-areas",
+            "slug": "grid-template-areas",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "grid-template-columns",
+            "slug": "grid-template-columns",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "gird-area",
+            "slug": "gird-area",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "gap",
+            "slug": "gap",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/grid.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "listas",
+    "headers": [
+      {
+        "level": 2,
+        "title": "list-style",
+        "slug": "list-style",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "list-style-image",
+        "slug": "list-style-image",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "list-style-type",
+        "slug": "list-style-type",
+        "children": [
+          {
+            "level": 3,
+            "title": "list-style-position",
+            "slug": "list-style-position",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/listas.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "maquetacion basica",
+    "headers": [
+      {
+        "level": 2,
+        "title": "float",
+        "slug": "float",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de float",
+            "slug": "valores-de-float",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "clear",
+        "slug": "clear",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de clear",
+            "slug": "valores-de-clear",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "overflow",
+        "slug": "overflow",
+        "children": [
+          {
+            "level": 3,
+            "title": "overflow-x",
+            "slug": "overflow-x",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "overflow-y",
+            "slug": "overflow-y",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "valores de overflow",
+            "slug": "valores-de-overflow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "display flex-root",
+        "slug": "display-flex-root",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "position",
+        "slug": "position",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores de position",
+            "slug": "valores-de-position",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "z-index",
+        "slug": "z-index",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/maquetacion-basica.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "introducción a media queries",
+    "headers": [
+      {
+        "level": 2,
+        "title": "ejemplo",
+        "slug": "ejemplo",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "tipos de media queries",
+        "slug": "tipos-de-media-queries",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "reglas de media queries",
+        "slug": "reglas-de-media-queries",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "media queries con operadores logicos",
+        "slug": "media-queries-con-operadores-logicos",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/media-queries.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "metodologías CSS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "object-oriented CSS (OOCSS)",
+        "slug": "object-oriented-css-oocss",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "block, element, modifier (BEM)",
+        "slug": "block-element-modifier-bem",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "scalable and modular architeture for CSS (smacss)",
+        "slug": "scalable-and-modular-architeture-for-css-smacss",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/metodologias.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "elementos multimedia y formulario",
+    "headers": [
+      {
+        "level": 2,
+        "title": "min and max",
+        "slug": "min-and-max",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "object-fit",
+        "slug": "object-fit",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "background-blend-mode",
+        "slug": "background-blend-mode",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "isolation",
+        "slug": "isolation",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "mix-blend-mode",
+        "slug": "mix-blend-mode",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "image methods",
+        "slug": "image-methods",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "drop-shadow",
+        "slug": "drop-shadow",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "backdrop-filter",
+        "slug": "backdrop-filter",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "filter",
+        "slug": "filter",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/multimedia.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "prefijos propietarios",
+    "headers": [
+      {
+        "level": 2,
+        "title": "lista de prefijos propietarios",
+        "slug": "lista-de-prefijos-propietarios",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ejemplo",
+        "slug": "ejemplo",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/prefijos-propietarios.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "pseudoclases",
+    "headers": [
+      {
+        "level": 2,
+        "title": "sintasis",
+        "slug": "sintasis",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "tipos de pseudoclases",
+        "slug": "tipos-de-pseudoclases",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/pseudoclases.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "pseudoelementos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "sintasis",
+        "slug": "sintasis",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "tipos de pseudoelementos",
+        "slug": "tipos-de-pseudoelementos",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/pseudoelementos.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "reglas de @",
+    "headers": [
+      {
+        "level": 2,
+        "title": "@charset",
+        "slug": "charset",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@import",
+        "slug": "import",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@namespace",
+        "slug": "namespace",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@media",
+        "slug": "media",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@supports",
+        "slug": "supports",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@document",
+        "slug": "document",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@page",
+        "slug": "page",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@font-face",
+        "slug": "font-face",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@keyframes",
+        "slug": "keyframes",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@viewport",
+        "slug": "viewport",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@counter-style",
+        "slug": "counter-style",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@font-feature-values",
+        "slug": "font-feature-values",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@property",
+        "slug": "property",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "@color-profile",
+        "slug": "color-profile",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/reglas-css.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "resets",
+    "headers": [],
+    "path": "/guias-css/resets.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "responsive design",
+    "headers": [
+      {
+        "level": 2,
+        "title": "historia de esquema del diseño web",
+        "slug": "historia-de-esquema-del-diseno-web",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "formas de realizar diseño responsive",
+        "slug": "formas-de-realizar-diseno-responsive",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "otros metodos de responsive",
+        "slug": "otros-metodos-de-responsive",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/responsive-design.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "selectores de CSS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "selector universal",
+        "slug": "selector-universal",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "selector de id",
+        "slug": "selector-de-id",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "selectores de etiqueta",
+        "slug": "selectores-de-etiqueta",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "selectores de clases",
+        "slug": "selectores-de-clases",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "selectores de atributos",
+        "slug": "selectores-de-atributos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "pseudo elementos",
+        "slug": "pseudo-elementos",
+        "children": [
+          {
+            "level": 3,
+            "title": "tipos de pseudo elementos",
+            "slug": "tipos-de-pseudo-elementos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "pseudoclases",
+        "slug": "pseudoclases",
+        "children": [
+          {
+            "level": 3,
+            "title": "tipos de pseudoclases",
+            "slug": "tipos-de-pseudoclases",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "selectores combinables",
+        "slug": "selectores-combinables",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/selectores.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tablas",
+    "headers": [
+      {
+        "level": 2,
+        "title": "table-layout",
+        "slug": "table-layout",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "vertical-align",
+        "slug": "vertical-align",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "border-collapse",
+        "slug": "border-collapse",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "border-spacing",
+        "slug": "border-spacing",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "caption-side",
+        "slug": "caption-side",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/tablas.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "propiedades de texto",
+    "headers": [
+      {
+        "level": 2,
+        "title": "hanging-punctuation",
+        "slug": "hanging-punctuation",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "hyphens",
+        "slug": "hyphens",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "writing-mode",
+        "slug": "writing-mode",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores",
+            "slug": "valores",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "inline-size",
+        "slug": "inline-size",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "block-size",
+        "slug": "block-size",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-transform",
+        "slug": "text-transform",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-decoration",
+        "slug": "text-decoration",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-shadow",
+        "slug": "text-shadow",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-align",
+        "slug": "text-align",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-indent",
+        "slug": "text-indent",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-justify",
+        "slug": "text-justify",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "text-size-adjust",
+        "slug": "text-size-adjust",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "line-height",
+        "slug": "line-height",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "letter-spacing y word-spacing",
+        "slug": "letter-spacing-y-word-spacing",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "line-break",
+        "slug": "line-break",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "overflow-wrap",
+        "slug": "overflow-wrap",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "tab-size",
+        "slug": "tab-size",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "fuentes",
+        "slug": "fuentes",
+        "children": [
+          {
+            "level": 3,
+            "title": "font-family",
+            "slug": "font-family",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "font-size",
+            "slug": "font-size",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "font-style",
+            "slug": "font-style",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "font-weight",
+            "slug": "font-weight",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-css/texto.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "unidades de CSS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "variables",
+        "slug": "variables",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "cadena de caracteres",
+        "slug": "cadena-de-caracteres",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "unidades de medida",
+        "slug": "unidades-de-medida",
+        "children": [
+          {
+            "level": 3,
+            "title": "unidades de media absoluta",
+            "slug": "unidades-de-media-absoluta",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "unidades de medida relativas",
+            "slug": "unidades-de-medida-relativas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "unidades de color",
+        "slug": "unidades-de-color",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "funcion url",
+        "slug": "funcion-url",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gradientes",
+        "slug": "gradientes",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "función calc",
+        "slug": "funcion-calc",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "important",
+        "slug": "important",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "comentarios",
+        "slug": "comentarios",
+        "children": []
+      }
+    ],
+    "path": "/guias-css/valores-de-css.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1283,16 +2632,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

@@ -2,7 +2,7 @@ export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
   "title": "",
-  "lang": "es-CO",
+  "lang": "es",
   "frontmatter": {
     "head": [
       [
@@ -29,7 +29,7 @@ export const data = {
       },
       {
         "title": "guias de diseño grafico",
-        "details": "las guias para desarrollo web son creadas por ?"
+        "details": "las guias para desarrollo web son creadas por omega5300 en la guia de fotografía"
       },
       {
         "title": "guias audiovisual",
@@ -51,17 +51,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
