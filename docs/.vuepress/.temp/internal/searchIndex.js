@@ -2605,8 +2605,654 @@ export const searchIndex = [
   },
   {
     "title": "javascript",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "historia de las historia de javascript",
+        "slug": "historia-de-las-historia-de-javascript",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ecmascript y javascript versions",
+        "slug": "ecmascript-y-javascript-versions",
+        "children": []
+      }
+    ],
     "path": "/guias-javascript/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "ajax",
+    "headers": [
+      {
+        "level": 2,
+        "title": "callbacks",
+        "slug": "callbacks",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "XMLHTTPRequest",
+        "slug": "xmlhttprequest",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "promesas",
+        "slug": "promesas",
+        "children": [
+          {
+            "level": 3,
+            "title": "metodos de promesas e metodos de interacción",
+            "slug": "metodos-de-promesas-e-metodos-de-interaccion",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "fetch",
+        "slug": "fetch",
+        "children": [
+          {
+            "level": 3,
+            "title": "parametros de fetch",
+            "slug": "parametros-de-fetch",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "async / await",
+        "slug": "async-await",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/ajax.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "metodos de array",
+    "headers": [],
+    "path": "/guias-javascript/arrays-methods.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "ciclos y condicionales",
+    "headers": [
+      {
+        "level": 2,
+        "title": "operadores logicos y expresiones",
+        "slug": "operadores-logicos-y-expresiones",
+        "children": [
+          {
+            "level": 3,
+            "title": "operadores de asignación",
+            "slug": "operadores-de-asignacion",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "operadoresde comparación",
+            "slug": "operadoresde-comparacion",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "operadores ariméticos",
+            "slug": "operadores-arimeticos",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "operadores bit a bit",
+            "slug": "operadores-bit-a-bit",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "operadores logicos",
+            "slug": "operadores-logicos",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "operador coma",
+            "slug": "operador-coma",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "operador delete",
+            "slug": "operador-delete",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "typeof",
+            "slug": "typeof",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "operador void",
+        "slug": "operador-void",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "operador in",
+        "slug": "operador-in",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "instanceof",
+        "slug": "instanceof",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "this",
+        "slug": "this",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "new",
+        "slug": "new",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "super",
+        "slug": "super",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "if",
+        "slug": "if",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "condición ternaria",
+        "slug": "condicion-ternaria",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "switch",
+        "slug": "switch",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "throw",
+        "slug": "throw",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "try catch",
+        "slug": "try-catch",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "for",
+        "slug": "for",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "while",
+        "slug": "while",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "do while",
+        "slug": "do-while",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/ciclos-y-condicionales.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "objeto console",
+    "headers": [],
+    "path": "/guias-javascript/console.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "DOM",
+    "headers": [
+      {
+        "level": 2,
+        "title": "interfaces de DOM",
+        "slug": "interfaces-de-dom",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "document",
+        "slug": "document",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "DOMParser",
+        "slug": "domparser",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "element",
+        "slug": "element",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/dom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "errores comunes",
+    "headers": [
+      {
+        "level": 2,
+        "title": "escribir el javascript dentro de la etiqueta script",
+        "slug": "escribir-el-javascript-dentro-de-la-etiqueta-script",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "uso de var y/o variables globales",
+        "slug": "uso-de-var-y-o-variables-globales",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "no usar una convención para los nombres",
+        "slug": "no-usar-una-convencion-para-los-nombres",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "no usar el triple igual o el negación doble igual",
+        "slug": "no-usar-el-triple-igual-o-el-negacion-doble-igual",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "no documentar",
+        "slug": "no-documentar",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "el codigo espagueti",
+        "slug": "el-codigo-espagueti",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "use strict",
+        "slug": "use-strict",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "hoisting",
+        "slug": "hoisting",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/errores-comunes.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "eventos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "addEventListener",
+        "slug": "addeventlistener",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "event propiedades y eventos",
+        "slug": "event-propiedades-y-eventos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "removeEventListener",
+        "slug": "removeeventlistener",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/eventos.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "como usar javascript",
+    "headers": [],
+    "path": "/guias-javascript/example.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "funciones y window",
+    "headers": [
+      {
+        "level": 2,
+        "title": "funciones",
+        "slug": "funciones",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "window",
+        "slug": "window",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/funciones-y-window.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "JSON",
+    "headers": [
+      {
+        "level": 2,
+        "title": "diferencias entre javascript y JSON",
+        "slug": "diferencias-entre-javascript-y-json",
+        "children": [
+          {
+            "level": 3,
+            "title": "valores admitidos en JSON",
+            "slug": "valores-admitidos-en-json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "json methods",
+        "slug": "json-methods",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/json.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "math y date",
+    "headers": [
+      {
+        "level": 2,
+        "title": "math",
+        "slug": "math",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "date",
+        "slug": "date",
+        "children": [
+          {
+            "level": 3,
+            "title": "metodos",
+            "slug": "metodos",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-javascript/math-y-date.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "otros parametros de javascript",
+    "headers": [
+      {
+        "level": 2,
+        "title": "desestructuración o Destructuring",
+        "slug": "desestructuracion-o-destructuring",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "spread operator",
+        "slug": "spread-operator",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "strict mode",
+        "slug": "strict-mode",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "debugger",
+        "slug": "debugger",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "setInterval y setTimeout",
+        "slug": "setinterval-y-settimeout",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/misc.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "number methods",
+    "headers": [],
+    "path": "/guias-javascript/number-methods.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "object",
+    "headers": [],
+    "path": "/guias-javascript/object.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "polyfil",
+    "headers": [
+      {
+        "level": 2,
+        "title": "listado de polyfill",
+        "slug": "listado-de-polyfill",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "referencias",
+        "slug": "referencias",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/polyfill.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "programación orientado a objetos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "ejemplos",
+        "slug": "ejemplos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "class",
+        "slug": "class",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "componetes del class",
+        "slug": "componetes-del-class",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/poo-js.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "metodos string",
+    "headers": [
+      {
+        "level": 2,
+        "title": "espacios secuenciales",
+        "slug": "espacios-secuenciales",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "metodos",
+        "slug": "metodos",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/string-methods.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "symbol",
+    "headers": [],
+    "path": "/guias-javascript/symbol.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "variables",
+    "headers": [
+      {
+        "level": 2,
+        "title": "tipos de datos",
+        "slug": "tipos-de-datos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "tipos de variables",
+        "slug": "tipos-de-variables",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "forma de llamar la variables",
+        "slug": "forma-de-llamar-la-variables",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "hoisting",
+        "slug": "hoisting",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "typeof",
+        "slug": "typeof",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "comentarios",
+        "slug": "comentarios",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/variables.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "web apis",
+    "headers": [
+      {
+        "level": 2,
+        "title": "canvas",
+        "slug": "canvas",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "clipboard",
+        "slug": "clipboard",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "audio",
+        "slug": "audio",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "drag and drop",
+        "slug": "drag-and-drop",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "notifications",
+        "slug": "notifications",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "fullscreen",
+        "slug": "fullscreen",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "local storage",
+        "slug": "local-storage",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "web workers",
+        "slug": "web-workers",
+        "children": []
+      }
+    ],
+    "path": "/guias-javascript/webapis.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2632,3 +3278,16 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

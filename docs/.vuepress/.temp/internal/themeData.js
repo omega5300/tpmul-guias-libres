@@ -84,7 +84,7 @@ export const themeData = {
     ],
     "/guias-css/": [
       {
-        "title": "HTML",
+        "title": "CSS",
         "collapsable": true,
         "children": [
           "README.md",
@@ -113,6 +113,34 @@ export const themeData = {
           "compatibilidad.md",
           "resets.md",
           "metodologias.md",
+          "errores-comunes.md"
+        ]
+      }
+    ],
+    "/guias-javascript/": [
+      {
+        "title": "javascript",
+        "collapsable": true,
+        "children": [
+          "README.md",
+          "example.md",
+          "variables.md",
+          "funciones-y-window.md",
+          "ciclos-y-condicionales.md",
+          "console.md",
+          "math-y-date.md",
+          "misc.md",
+          "object.md",
+          "symbol.md",
+          "arrays-methods.md",
+          "string-methods.md",
+          "number-methods.md",
+          "json.md",
+          "poo-js.md",
+          "dom.md",
+          "eventos.md",
+          "ajax.md",
+          "webapis.md",
           "errores-comunes.md"
         ]
       }
@@ -145,4 +173,17 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

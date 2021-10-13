@@ -111,6 +111,46 @@ export const pagesComponents = {
   "v-0b210c21": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b210c21" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-ilustracion/index.html.vue")),
   // path: /guias-javascript/
   "v-72144369": defineAsyncComponent(() => import(/* webpackChunkName: "v-72144369" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/index.html.vue")),
+  // path: /guias-javascript/ajax.html
+  "v-1b0c6570": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b0c6570" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/ajax.html.vue")),
+  // path: /guias-javascript/arrays-methods.html
+  "v-e39e4fde": defineAsyncComponent(() => import(/* webpackChunkName: "v-e39e4fde" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/arrays-methods.html.vue")),
+  // path: /guias-javascript/ciclos-y-condicionales.html
+  "v-653715f9": defineAsyncComponent(() => import(/* webpackChunkName: "v-653715f9" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/ciclos-y-condicionales.html.vue")),
+  // path: /guias-javascript/console.html
+  "v-388487cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-388487cb" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/console.html.vue")),
+  // path: /guias-javascript/dom.html
+  "v-17b57f40": defineAsyncComponent(() => import(/* webpackChunkName: "v-17b57f40" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/dom.html.vue")),
+  // path: /guias-javascript/errores-comunes.html
+  "v-308d8871": defineAsyncComponent(() => import(/* webpackChunkName: "v-308d8871" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/errores-comunes.html.vue")),
+  // path: /guias-javascript/eventos.html
+  "v-c78c08f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-c78c08f8" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/eventos.html.vue")),
+  // path: /guias-javascript/example.html
+  "v-0a7def98": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a7def98" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/example.html.vue")),
+  // path: /guias-javascript/funciones-y-window.html
+  "v-197071f1": defineAsyncComponent(() => import(/* webpackChunkName: "v-197071f1" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/funciones-y-window.html.vue")),
+  // path: /guias-javascript/json.html
+  "v-6834b0b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-6834b0b0" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/json.html.vue")),
+  // path: /guias-javascript/math-y-date.html
+  "v-43816bbb": defineAsyncComponent(() => import(/* webpackChunkName: "v-43816bbb" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/math-y-date.html.vue")),
+  // path: /guias-javascript/misc.html
+  "v-3abad224": defineAsyncComponent(() => import(/* webpackChunkName: "v-3abad224" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/misc.html.vue")),
+  // path: /guias-javascript/number-methods.html
+  "v-9668333c": defineAsyncComponent(() => import(/* webpackChunkName: "v-9668333c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/number-methods.html.vue")),
+  // path: /guias-javascript/object.html
+  "v-de8f041e": defineAsyncComponent(() => import(/* webpackChunkName: "v-de8f041e" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/object.html.vue")),
+  // path: /guias-javascript/polyfill.html
+  "v-210dfbbe": defineAsyncComponent(() => import(/* webpackChunkName: "v-210dfbbe" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/polyfill.html.vue")),
+  // path: /guias-javascript/poo-js.html
+  "v-2a030faa": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a030faa" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/poo-js.html.vue")),
+  // path: /guias-javascript/string-methods.html
+  "v-270b669a": defineAsyncComponent(() => import(/* webpackChunkName: "v-270b669a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/string-methods.html.vue")),
+  // path: /guias-javascript/symbol.html
+  "v-6d9b8990": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d9b8990" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/symbol.html.vue")),
+  // path: /guias-javascript/variables.html
+  "v-4c7c2d6b": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c7c2d6b" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/variables.html.vue")),
+  // path: /guias-javascript/webapis.html
+  "v-0247aff5": defineAsyncComponent(() => import(/* webpackChunkName: "v-0247aff5" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/webapis.html.vue")),
   // path: /guias-svg/
   "v-4a6ee924": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a6ee924" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-svg/index.html.vue")),
   // path: /guias-webcomponets/

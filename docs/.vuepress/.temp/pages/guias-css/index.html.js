@@ -51,13 +51,26 @@ export const data = {
   ],
   "filePathRelative": "guias-css/README.md",
   "git": {
-    "updatedTime": 1630382817000,
+    "updatedTime": 1632878506000,
     "contributors": [
       {
         "name": "omega5300",
         "email": "omegamatrix5351@gmail.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

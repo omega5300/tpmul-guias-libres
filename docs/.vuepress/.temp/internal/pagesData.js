@@ -109,6 +109,46 @@ export const pagesData = {
   "v-0b210c21": () => import(/* webpackChunkName: "v-0b210c21" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-ilustracion/index.html.js").then(({ data }) => data),
   // path: /guias-javascript/
   "v-72144369": () => import(/* webpackChunkName: "v-72144369" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/index.html.js").then(({ data }) => data),
+  // path: /guias-javascript/ajax.html
+  "v-1b0c6570": () => import(/* webpackChunkName: "v-1b0c6570" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/ajax.html.js").then(({ data }) => data),
+  // path: /guias-javascript/arrays-methods.html
+  "v-e39e4fde": () => import(/* webpackChunkName: "v-e39e4fde" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/arrays-methods.html.js").then(({ data }) => data),
+  // path: /guias-javascript/ciclos-y-condicionales.html
+  "v-653715f9": () => import(/* webpackChunkName: "v-653715f9" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/ciclos-y-condicionales.html.js").then(({ data }) => data),
+  // path: /guias-javascript/console.html
+  "v-388487cb": () => import(/* webpackChunkName: "v-388487cb" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/console.html.js").then(({ data }) => data),
+  // path: /guias-javascript/dom.html
+  "v-17b57f40": () => import(/* webpackChunkName: "v-17b57f40" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/dom.html.js").then(({ data }) => data),
+  // path: /guias-javascript/errores-comunes.html
+  "v-308d8871": () => import(/* webpackChunkName: "v-308d8871" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/errores-comunes.html.js").then(({ data }) => data),
+  // path: /guias-javascript/eventos.html
+  "v-c78c08f8": () => import(/* webpackChunkName: "v-c78c08f8" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/eventos.html.js").then(({ data }) => data),
+  // path: /guias-javascript/example.html
+  "v-0a7def98": () => import(/* webpackChunkName: "v-0a7def98" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/example.html.js").then(({ data }) => data),
+  // path: /guias-javascript/funciones-y-window.html
+  "v-197071f1": () => import(/* webpackChunkName: "v-197071f1" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/funciones-y-window.html.js").then(({ data }) => data),
+  // path: /guias-javascript/json.html
+  "v-6834b0b0": () => import(/* webpackChunkName: "v-6834b0b0" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/json.html.js").then(({ data }) => data),
+  // path: /guias-javascript/math-y-date.html
+  "v-43816bbb": () => import(/* webpackChunkName: "v-43816bbb" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/math-y-date.html.js").then(({ data }) => data),
+  // path: /guias-javascript/misc.html
+  "v-3abad224": () => import(/* webpackChunkName: "v-3abad224" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/misc.html.js").then(({ data }) => data),
+  // path: /guias-javascript/number-methods.html
+  "v-9668333c": () => import(/* webpackChunkName: "v-9668333c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/number-methods.html.js").then(({ data }) => data),
+  // path: /guias-javascript/object.html
+  "v-de8f041e": () => import(/* webpackChunkName: "v-de8f041e" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/object.html.js").then(({ data }) => data),
+  // path: /guias-javascript/polyfill.html
+  "v-210dfbbe": () => import(/* webpackChunkName: "v-210dfbbe" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/polyfill.html.js").then(({ data }) => data),
+  // path: /guias-javascript/poo-js.html
+  "v-2a030faa": () => import(/* webpackChunkName: "v-2a030faa" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/poo-js.html.js").then(({ data }) => data),
+  // path: /guias-javascript/string-methods.html
+  "v-270b669a": () => import(/* webpackChunkName: "v-270b669a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/string-methods.html.js").then(({ data }) => data),
+  // path: /guias-javascript/symbol.html
+  "v-6d9b8990": () => import(/* webpackChunkName: "v-6d9b8990" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/symbol.html.js").then(({ data }) => data),
+  // path: /guias-javascript/variables.html
+  "v-4c7c2d6b": () => import(/* webpackChunkName: "v-4c7c2d6b" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/variables.html.js").then(({ data }) => data),
+  // path: /guias-javascript/webapis.html
+  "v-0247aff5": () => import(/* webpackChunkName: "v-0247aff5" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/webapis.html.js").then(({ data }) => data),
   // path: /guias-svg/
   "v-4a6ee924": () => import(/* webpackChunkName: "v-4a6ee924" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-svg/index.html.js").then(({ data }) => data),
   // path: /guias-webcomponets/

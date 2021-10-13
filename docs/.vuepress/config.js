@@ -112,7 +112,7 @@ module.exports = {
       ],
       '/guias-css/': [
         {
-          title: 'HTML',
+          title: 'CSS',
           collapsable: true,
           children: [
             'README.md',
@@ -141,6 +141,34 @@ module.exports = {
             'compatibilidad.md',
             'resets.md',
             'metodologias.md',
+            'errores-comunes.md'
+          ]
+        }
+      ],
+      '/guias-javascript/': [
+        {
+          title: 'javascript',
+          collapsable: true,
+          children: [
+            'README.md',
+            'example.md',
+            'variables.md',
+            'funciones-y-window.md',
+            'ciclos-y-condicionales.md',
+            'console.md',
+            'math-y-date.md',
+            'misc.md',
+            'object.md',
+            'symbol.md',
+            'arrays-methods.md',
+            'string-methods.md',
+            'number-methods.md',
+            'json.md',
+            'poo-js.md',
+            'dom.md',
+            'eventos.md',
+            'ajax.md',
+            'webapis.md',
             'errores-comunes.md'
           ]
         }
