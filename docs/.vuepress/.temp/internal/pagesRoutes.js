@@ -77,7 +77,12 @@ const routeItems = [
   ["v-4c7c2d6b","/guias-javascript/variables.html","variables",["/guias-javascript/variables","/guias-javascript/variables.md"]],
   ["v-0247aff5","/guias-javascript/webapis.html","web apis",["/guias-javascript/webapis","/guias-javascript/webapis.md"]],
   ["v-4a6ee924","/guias-svg/","SVG",["/guias-svg/index.html","/guias-svg/README.md"]],
+  ["v-c2b0bba2","/guias-svg/elments.html","elementos de SVG",["/guias-svg/elments","/guias-svg/elments.md"]],
   ["v-1e3c94d4","/guias-webcomponets/","web components",["/guias-webcomponets/index.html","/guias-webcomponets/README.md"]],
+  ["v-9cbdf08c","/guias-webcomponets/custom-elements.html","custom elements",["/guias-webcomponets/custom-elements","/guias-webcomponets/custom-elements.md"]],
+  ["v-31e0ab90","/guias-webcomponets/shadow-dom.html","shadow DOM",["/guias-webcomponets/shadow-dom","/guias-webcomponets/shadow-dom.md"]],
+  ["v-66b3f93c","/guias-webcomponets/templates-and-slots.html","templates and slots",["/guias-webcomponets/templates-and-slots","/guias-webcomponets/templates-and-slots.md"]],
+  ["v-063ccb8d","/guias-webcomponets/webcomponents-css.html","css webcomponents",["/guias-webcomponets/webcomponents-css","/guias-webcomponets/webcomponents-css.md"]],
   ["v-3706649a","/404.html","",["/404"]],
 ]
 

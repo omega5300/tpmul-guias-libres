@@ -5,7 +5,20 @@ export const data = {
   "lang": "es",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "requisitos",
+      "slug": "requisitos",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "ciclo de vida",
+      "slug": "ciclo-de-vida",
+      "children": []
+    }
+  ],
   "filePathRelative": "guias-webcomponets/README.md",
   "git": {
     "updatedTime": 1630382817000,

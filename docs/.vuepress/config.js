@@ -172,6 +172,29 @@ module.exports = {
             'errores-comunes.md'
           ]
         }
+      ],
+      '/guias-svg/': [
+        {
+          title: 'svg',
+          collapsable: true,
+          children: [
+            'README.md',
+            'elments.md'
+          ]
+        }
+      ],
+      '/guias-webcomponets/': [
+        {
+          title: 'svg',
+          collapsable: true,
+          children: [
+            'README.md',
+            'custom-elements.md',
+            'shadow-dom.md',
+            'templates-and-slots.md',
+            'webcomponents-css.md'
+          ]
+        }
       ]
     },
   },

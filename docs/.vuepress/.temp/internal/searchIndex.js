@@ -3063,6 +3063,12 @@ export const searchIndex = [
         "title": "setInterval y setTimeout",
         "slug": "setinterval-y-settimeout",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "closures",
+        "slug": "closures",
+        "children": []
       }
     ],
     "path": "/guias-javascript/misc.html",
@@ -3264,9 +3270,771 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "elementos de SVG",
+    "headers": [
+      {
+        "level": 2,
+        "title": "a",
+        "slug": "a",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "animate",
+        "slug": "animate",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "animationMotion",
+        "slug": "animationmotion",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "animateTransform",
+        "slug": "animatetransform",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "circle",
+        "slug": "circle",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "clipPath",
+        "slug": "clippath",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "defs",
+        "slug": "defs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "desc",
+        "slug": "desc",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "elipse",
+        "slug": "elipse",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feBlend",
+        "slug": "feblend",
+        "children": [
+          {
+            "level": 3,
+            "title": "atrinuttos",
+            "slug": "atrinuttos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feColorMatrix",
+        "slug": "fecolormatrix",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feComponentTransfer",
+        "slug": "fecomponenttransfer",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "feComposite",
+        "slug": "fecomposite",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feConvolveMatrix",
+        "slug": "feconvolvematrix",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feDiffuseLighting",
+        "slug": "fediffuselighting",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feDisplacementMap",
+        "slug": "fedisplacementmap",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feDistantLight",
+        "slug": "fedistantlight",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feFlood",
+        "slug": "feflood",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-10",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feFunc",
+        "slug": "fefunc",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "feGaussianBlur",
+        "slug": "fegaussianblur",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-11",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feImage",
+        "slug": "feimage",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feMerge",
+        "slug": "femerge",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "feMergeNode",
+        "slug": "femergenode",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "feMorphology",
+        "slug": "femorphology",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-13",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feOffset",
+        "slug": "feoffset",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-14",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "fePointLight",
+        "slug": "fepointlight",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-15",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feSpecularLighting",
+        "slug": "fespecularlighting",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-16",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feSpotLight",
+        "slug": "fespotlight",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-17",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "feTile",
+        "slug": "fetile",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "feTurbulence",
+        "slug": "feturbulence",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-18",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "filter",
+        "slug": "filter",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-19",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "foreignObject",
+        "slug": "foreignobject",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-20",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "g",
+        "slug": "g",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "image",
+        "slug": "image",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-21",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "line",
+        "slug": "line",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-22",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "linearGradient",
+        "slug": "lineargradient",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-23",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "marker",
+        "slug": "marker",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-24",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "mask",
+        "slug": "mask",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-25",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "metadata",
+        "slug": "metadata",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "mpath",
+        "slug": "mpath",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "path",
+        "slug": "path",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-26",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "pattern",
+        "slug": "pattern",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-27",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "polygon",
+        "slug": "polygon",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-28",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "polyline",
+        "slug": "polyline",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "radialGradient",
+        "slug": "radialgradient",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-29",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "rect",
+        "slug": "rect",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-30",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "script",
+        "slug": "script",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-31",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "set",
+        "slug": "set",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-32",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "stop",
+        "slug": "stop",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-33",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "style",
+        "slug": "style",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "svg",
+        "slug": "svg",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-34",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "switch",
+        "slug": "switch",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "symbol",
+        "slug": "symbol",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-35",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "text",
+        "slug": "text",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-36",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "textPath",
+        "slug": "textpath",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-37",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "title",
+        "slug": "title",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "tspan",
+        "slug": "tspan",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-38",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "use",
+        "slug": "use",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-39",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "view",
+        "slug": "view",
+        "children": [
+          {
+            "level": 3,
+            "title": "atributos",
+            "slug": "atributos-40",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-svg/elments.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "web components",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "requisitos",
+        "slug": "requisitos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ciclo de vida",
+        "slug": "ciclo-de-vida",
+        "children": []
+      }
+    ],
     "path": "/guias-webcomponets/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "custom elements",
+    "headers": [
+      {
+        "level": 2,
+        "title": "api customelements",
+        "slug": "api-customelements",
+        "children": [
+          {
+            "level": 3,
+            "title": "metodos",
+            "slug": "metodos",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-webcomponets/custom-elements.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "shadow DOM",
+    "headers": [
+      {
+        "level": 2,
+        "title": "uso de shadow DOM",
+        "slug": "uso-de-shadow-dom",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "nodes",
+        "slug": "nodes",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "eventos",
+        "slug": "eventos",
+        "children": []
+      }
+    ],
+    "path": "/guias-webcomponets/shadow-dom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "templates and slots",
+    "headers": [
+      {
+        "level": 2,
+        "title": "la verdad sobre los templates",
+        "slug": "la-verdad-sobre-los-templates",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "slots",
+        "slug": "slots",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "evento slotchange",
+        "slug": "evento-slotchange",
+        "children": []
+      }
+    ],
+    "path": "/guias-webcomponets/templates-and-slots.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "css webcomponents",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Pseudo-classes",
+        "slug": "pseudo-classes",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "pseudoelementos",
+        "slug": "pseudoelementos",
+        "children": []
+      }
+    ],
+    "path": "/guias-webcomponets/webcomponents-css.html",
     "pathLocale": "/",
     "extraFields": []
   },

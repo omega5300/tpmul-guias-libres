@@ -151,8 +151,18 @@ export const pagesData = {
   "v-0247aff5": () => import(/* webpackChunkName: "v-0247aff5" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-javascript/webapis.html.js").then(({ data }) => data),
   // path: /guias-svg/
   "v-4a6ee924": () => import(/* webpackChunkName: "v-4a6ee924" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-svg/index.html.js").then(({ data }) => data),
+  // path: /guias-svg/elments.html
+  "v-c2b0bba2": () => import(/* webpackChunkName: "v-c2b0bba2" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-svg/elments.html.js").then(({ data }) => data),
   // path: /guias-webcomponets/
   "v-1e3c94d4": () => import(/* webpackChunkName: "v-1e3c94d4" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-webcomponets/index.html.js").then(({ data }) => data),
+  // path: /guias-webcomponets/custom-elements.html
+  "v-9cbdf08c": () => import(/* webpackChunkName: "v-9cbdf08c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-webcomponets/custom-elements.html.js").then(({ data }) => data),
+  // path: /guias-webcomponets/shadow-dom.html
+  "v-31e0ab90": () => import(/* webpackChunkName: "v-31e0ab90" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-webcomponets/shadow-dom.html.js").then(({ data }) => data),
+  // path: /guias-webcomponets/templates-and-slots.html
+  "v-66b3f93c": () => import(/* webpackChunkName: "v-66b3f93c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-webcomponets/templates-and-slots.html.js").then(({ data }) => data),
+  // path: /guias-webcomponets/webcomponents-css.html
+  "v-063ccb8d": () => import(/* webpackChunkName: "v-063ccb8d" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-webcomponets/webcomponents-css.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
