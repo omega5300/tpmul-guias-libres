@@ -1,6 +1,10 @@
 export const themeData = {
   "navbar": [
     {
+      "text": "fundamentos",
+      "link": "/guias-fundamentos/"
+    },
+    {
       "text": "diseño grafico",
       "children": [
         "/guias-fotografia/",
@@ -38,6 +42,10 @@ export const themeData = {
         {
           "text": "repo",
           "link": "https://github.com/omega5300/tpmul-guias-libres"
+        },
+        {
+          "text": "fundamentos diseño",
+          "link": "https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/fundamentos-del-diseno/1/"
         }
       ]
     }
@@ -165,6 +173,27 @@ export const themeData = {
           "shadow-dom.md",
           "templates-and-slots.md",
           "webcomponents-css.md"
+        ]
+      }
+    ],
+    "/guias-fundamentos/": [
+      {
+        "title": "svg",
+        "collapsable": true,
+        "children": [
+          "README.md",
+          "algoritmos.md",
+          "diseño.md",
+          "proyectos.md",
+          "red.md",
+          "ui-ux.md",
+          "terminal.md",
+          "uml.md",
+          "tipologias.md",
+          "terminal.md",
+          "navegadores.md",
+          "licencias.md",
+          "vcs.md"
         ]
       }
     ]

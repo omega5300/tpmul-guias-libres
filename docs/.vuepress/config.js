@@ -7,7 +7,8 @@ module.exports = {
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'keyword', content: 'tpmul,tpmul guias,produccion multimedia,tpmul omega5300' }],
+    ['meta', { name: 'keyword', content: 'tpmul, tpmul guias, produccion multimedia, tpmul omega5300, produccion multimedia sena, tpmul sena' }],
+    ['link', { rel: 'icon', href: '/icons/favicon.ico' }]
   ],
   plugins: [
     [
@@ -28,6 +29,10 @@ module.exports = {
   ],
   themeConfig: {
     navbar: [
+      {
+        text: 'fundamentos',
+        link: '/guias-fundamentos/'
+      },
       {
         text: 'diseño grafico',
         children: [
@@ -66,6 +71,10 @@ module.exports = {
           {
             text: 'repo',
             link: 'https://github.com/omega5300/tpmul-guias-libres'
+          },
+          {
+            text: 'fundamentos diseño',
+            link: 'https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/fundamentos-del-diseno/1/'
           }
         ]
       }
@@ -193,6 +202,27 @@ module.exports = {
             'shadow-dom.md',
             'templates-and-slots.md',
             'webcomponents-css.md'
+          ]
+        }
+      ],
+      '/guias-fundamentos/': [
+        {
+          title: 'svg',
+          collapsable: true,
+          children: [
+            'README.md',
+            'algoritmos.md',
+            'diseño.md',
+            'proyectos.md',
+            'red.md',
+            'ui-ux.md',
+            'terminal.md',
+            'uml.md',
+            'tipologias.md',
+            'terminal.md',
+            'navegadores.md',
+            'licencias.md',
+            'vcs.md'
           ]
         }
       ]

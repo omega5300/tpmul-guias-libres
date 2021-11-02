@@ -19,10 +19,14 @@ export const data = {
     "actions": [
       {
         "text": "Inicio de la guia →",
-        "link": "/guias-fotografia/"
+        "link": "/guias-fundamentos/"
       }
     ],
     "features": [
+      {
+        "title": "fundamentos",
+        "details": "las guias de fundamentos fue escrito por omega5300"
+      },
       {
         "title": "guias de desarrollo web",
         "details": "las guias para desarrollo web son lideras por omega5300"

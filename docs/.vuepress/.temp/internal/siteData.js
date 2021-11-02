@@ -22,7 +22,14 @@ export const siteData = {
       "meta",
       {
         "name": "keyword",
-        "content": "tpmul,tpmul guias,produccion multimedia,tpmul omega5300"
+        "content": "tpmul, tpmul guias, produccion multimedia, tpmul omega5300, produccion multimedia sena, tpmul sena"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "icon",
+        "href": "/icons/favicon.ico"
       }
     ]
   ],

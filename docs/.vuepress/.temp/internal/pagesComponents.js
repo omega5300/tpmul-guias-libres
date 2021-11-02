@@ -77,6 +77,30 @@ export const pagesComponents = {
   "v-79a7bfb9": defineAsyncComponent(() => import(/* webpackChunkName: "v-79a7bfb9" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-fotografia.html.vue")),
   // path: /guias-fotografia/tipos-de-planos.html
   "v-3c117610": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c117610" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-planos.html.vue")),
+  // path: /guias-fundamentos/
+  "v-1b4fb4ca": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b4fb4ca" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/index.html.vue")),
+  // path: /guias-fundamentos/algoritmos.html
+  "v-65fdab70": defineAsyncComponent(() => import(/* webpackChunkName: "v-65fdab70" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/algoritmos.html.vue")),
+  // path: /guias-fundamentos/dise%C3%B1o.html
+  "v-110c9e2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-110c9e2a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/diseño.html.vue")),
+  // path: /guias-fundamentos/licencias.html
+  "v-63b6b33c": defineAsyncComponent(() => import(/* webpackChunkName: "v-63b6b33c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/licencias.html.vue")),
+  // path: /guias-fundamentos/navegadores.html
+  "v-03bd7b8a": defineAsyncComponent(() => import(/* webpackChunkName: "v-03bd7b8a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/navegadores.html.vue")),
+  // path: /guias-fundamentos/proyectos.html
+  "v-10a9fcd5": defineAsyncComponent(() => import(/* webpackChunkName: "v-10a9fcd5" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/proyectos.html.vue")),
+  // path: /guias-fundamentos/red.html
+  "v-46d485b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-46d485b2" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/red.html.vue")),
+  // path: /guias-fundamentos/terminal.html
+  "v-6308815a": defineAsyncComponent(() => import(/* webpackChunkName: "v-6308815a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/terminal.html.vue")),
+  // path: /guias-fundamentos/tipologias.html
+  "v-6612cce4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6612cce4" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/tipologias.html.vue")),
+  // path: /guias-fundamentos/ui-ux.html
+  "v-f8ba83b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-f8ba83b2" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/ui-ux.html.vue")),
+  // path: /guias-fundamentos/uml.html
+  "v-3350ab4f": defineAsyncComponent(() => import(/* webpackChunkName: "v-3350ab4f" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/uml.html.vue")),
+  // path: /guias-fundamentos/vcs.html
+  "v-d3b51806": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3b51806" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/vcs.html.vue")),
   // path: /guias-html/
   "v-02d26e2b": defineAsyncComponent(() => import(/* webpackChunkName: "v-02d26e2b" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-html/index.html.vue")),
   // path: /guias-html/elementos-de-formularios.html

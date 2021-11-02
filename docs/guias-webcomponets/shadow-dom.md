@@ -7,7 +7,7 @@ Es un aspecto importante de los componentes web es la encapsulación: poder mant
 - Shadow boundary: el lugar donde termina el DOM de sombra y comienza el DOM regular.
 - Shadow root: el nodo raíz del árbol de sombra.
 
-![](example)
+![example shadow DOM](/img/web/shadowdom.svg)
 
 ## uso de shadow DOM
 

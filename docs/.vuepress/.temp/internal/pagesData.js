@@ -75,6 +75,30 @@ export const pagesData = {
   "v-79a7bfb9": () => import(/* webpackChunkName: "v-79a7bfb9" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-fotografia.html.js").then(({ data }) => data),
   // path: /guias-fotografia/tipos-de-planos.html
   "v-3c117610": () => import(/* webpackChunkName: "v-3c117610" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fotografia/tipos-de-planos.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/
+  "v-1b4fb4ca": () => import(/* webpackChunkName: "v-1b4fb4ca" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/index.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/algoritmos.html
+  "v-65fdab70": () => import(/* webpackChunkName: "v-65fdab70" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/algoritmos.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/dise%C3%B1o.html
+  "v-110c9e2a": () => import(/* webpackChunkName: "v-110c9e2a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/diseño.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/licencias.html
+  "v-63b6b33c": () => import(/* webpackChunkName: "v-63b6b33c" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/licencias.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/navegadores.html
+  "v-03bd7b8a": () => import(/* webpackChunkName: "v-03bd7b8a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/navegadores.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/proyectos.html
+  "v-10a9fcd5": () => import(/* webpackChunkName: "v-10a9fcd5" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/proyectos.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/red.html
+  "v-46d485b2": () => import(/* webpackChunkName: "v-46d485b2" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/red.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/terminal.html
+  "v-6308815a": () => import(/* webpackChunkName: "v-6308815a" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/terminal.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/tipologias.html
+  "v-6612cce4": () => import(/* webpackChunkName: "v-6612cce4" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/tipologias.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/ui-ux.html
+  "v-f8ba83b2": () => import(/* webpackChunkName: "v-f8ba83b2" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/ui-ux.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/uml.html
+  "v-3350ab4f": () => import(/* webpackChunkName: "v-3350ab4f" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/uml.html.js").then(({ data }) => data),
+  // path: /guias-fundamentos/vcs.html
+  "v-d3b51806": () => import(/* webpackChunkName: "v-d3b51806" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-fundamentos/vcs.html.js").then(({ data }) => data),
   // path: /guias-html/
   "v-02d26e2b": () => import(/* webpackChunkName: "v-02d26e2b" */"/home/julio-linux/Documentos/tpmul-guias/docs/.vuepress/.temp/pages/guias-html/index.html.js").then(({ data }) => data),
   // path: /guias-html/elementos-de-formularios.html

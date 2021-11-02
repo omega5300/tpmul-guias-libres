@@ -1669,6 +1669,504 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "fundamentos",
+    "headers": [],
+    "path": "/guias-fundamentos/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "algoritmos",
+    "headers": [
+      {
+        "level": 2,
+        "title": "variables",
+        "slug": "variables",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "procesos",
+        "slug": "procesos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "condicionales",
+        "slug": "condicionales",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "salidas o prints",
+        "slug": "salidas-o-prints",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "inputs",
+        "slug": "inputs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ciclos",
+        "slug": "ciclos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "flechas de flujo",
+        "slug": "flechas-de-flujo",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/algoritmos.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "fundamentos de diseño",
+    "headers": [
+      {
+        "level": 2,
+        "title": "línea",
+        "slug": "linea",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "forma",
+        "slug": "forma",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "objetos",
+        "slug": "objetos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "textura",
+        "slug": "textura",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Equilibrio",
+        "slug": "equilibrio",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "disposición y composoción",
+        "slug": "disposicion-y-composocion",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "teoría del color",
+        "slug": "teoria-del-color",
+        "children": [
+          {
+            "level": 3,
+            "title": "los colores y circulo cromático",
+            "slug": "los-colores-y-circulo-cromatico",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "combinaciones de colores",
+            "slug": "combinaciones-de-colores",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "combinar colores",
+        "slug": "combinar-colores",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/dise%C3%B1o.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "licencias",
+    "headers": [
+      {
+        "level": 2,
+        "title": "sofware propietario",
+        "slug": "sofware-propietario",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "el software libre",
+        "slug": "el-software-libre",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "codigo abierto",
+        "slug": "codigo-abierto",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "creative commons",
+        "slug": "creative-commons",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "dominio publico",
+        "slug": "dominio-publico",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/licencias.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "navegadores",
+    "headers": [
+      {
+        "level": 2,
+        "title": "navegadores basados en texto",
+        "slug": "navegadores-basados-en-texto",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "navegadores basados en interfaz grafica",
+        "slug": "navegadores-basados-en-interfaz-grafica",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "herramientas de desarrollador",
+        "slug": "herramientas-de-desarrollador",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/navegadores.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "gestion de proyecto",
+    "headers": [
+      {
+        "level": 2,
+        "title": "gestion de la integración del proyecto",
+        "slug": "gestion-de-la-integracion-del-proyecto",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion del alcance",
+        "slug": "gestion-del-alcance",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion del tiempo",
+        "slug": "gestion-del-tiempo",
+        "children": [
+          {
+            "level": 3,
+            "title": "modelo ruta critica",
+            "slug": "modelo-ruta-critica",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "diagrama de grantt",
+            "slug": "diagrama-de-grantt",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "gestion de los costos",
+        "slug": "gestion-de-los-costos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion de la calidad",
+        "slug": "gestion-de-la-calidad",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion de los recursos humanos",
+        "slug": "gestion-de-los-recursos-humanos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion de las comunicaciones",
+        "slug": "gestion-de-las-comunicaciones",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion de los riesgos",
+        "slug": "gestion-de-los-riesgos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion de las adquisiciones",
+        "slug": "gestion-de-las-adquisiciones",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "gestion de los interesados",
+        "slug": "gestion-de-los-interesados",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/proyectos.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "redes",
+    "headers": [
+      {
+        "level": 2,
+        "title": "que es red",
+        "slug": "que-es-red",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "historia",
+        "slug": "historia",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "internet",
+        "slug": "internet",
+        "children": [
+          {
+            "level": 3,
+            "title": "protocolos",
+            "slug": "protocolos",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "tcp/ip",
+            "slug": "tcp-ip",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "dns",
+            "slug": "dns",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "www y web",
+            "slug": "www-y-web",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "http",
+        "slug": "http",
+        "children": [
+          {
+            "level": 3,
+            "title": "codigos http",
+            "slug": "codigos-http",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "conceptos de conexion",
+        "slug": "conceptos-de-conexion",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "rmtp",
+        "slug": "rmtp",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/red.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "terminal",
+    "headers": [
+      {
+        "level": 2,
+        "title": "como es la terminal",
+        "slug": "como-es-la-terminal",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "commandos mas utilizados en la terminal de commandos",
+        "slug": "commandos-mas-utilizados-en-la-terminal-de-commandos",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/terminal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tipologias multimedia",
+    "headers": [
+      {
+        "level": 2,
+        "title": "multimedia educativa",
+        "slug": "multimedia-educativa",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "multimedia comercial",
+        "slug": "multimedia-comercial",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "multimedia informativa",
+        "slug": "multimedia-informativa",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "multimedia publicitaria",
+        "slug": "multimedia-publicitaria",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/tipologias.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "UI y UX",
+    "headers": [
+      {
+        "level": 2,
+        "title": "UI",
+        "slug": "ui",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "UX",
+        "slug": "ux",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "ejemplos",
+        "slug": "ejemplos",
+        "children": []
+      }
+    ],
+    "path": "/guias-fundamentos/ui-ux.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "UML",
+    "headers": [
+      {
+        "level": 2,
+        "title": "diagrama de casos de uso",
+        "slug": "diagrama-de-casos-de-uso",
+        "children": [
+          {
+            "level": 3,
+            "title": "sintaxis",
+            "slug": "sintaxis",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "ejemplo",
+            "slug": "ejemplo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "diagrama de secuencia",
+        "slug": "diagrama-de-secuencia",
+        "children": [
+          {
+            "level": 3,
+            "title": "sintaxis",
+            "slug": "sintaxis-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "ejemplo",
+            "slug": "ejemplo-1",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-fundamentos/uml.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "sistema de control de versiones",
+    "headers": [
+      {
+        "level": 2,
+        "title": "git",
+        "slug": "git",
+        "children": [
+          {
+            "level": 3,
+            "title": "commandos de git mas usados",
+            "slug": "commandos-de-git-mas-usados",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "redes de repositorios remotos",
+            "slug": "redes-de-repositorios-remotos",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guias-fundamentos/vcs.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "HTML",
     "headers": [
       {
