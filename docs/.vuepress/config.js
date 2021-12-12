@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  lang: 'es',
+  lang: 'es-co',
   title: 'TPMUL guias',
   description,
   head: [
@@ -37,12 +37,15 @@ module.exports = {
         text: 'diseño grafico',
         children: [
           '/guias-fotografia/',
-          '/guias-ilustracion/'
+          '/guias-ilustracion/',
+          '/guias-herramientas/',
+          '/guias-3d/'
         ]
       },
       {
         text: 'audiovisual',
         children: [
+          '/guias-audio/',
           '/guias-animacion/',
           '/guias-audiovisual/'
         ]
@@ -54,8 +57,21 @@ module.exports = {
           '/guias-css/',
           '/guias-javascript/',
           '/guias-svg/',
-          '/guias-webcomponets/'
+          '/guias-webcomponets/',
+          '/guias-interpretes/',
+          '/guias-php/',
+          '/guias-node/',
+          '/guias-python/',
+          '/guias-plantillas/',
+          '/guias-preprocesadores/',
+          '/guias-transpiladores/',
+          '/guias-framework-y-libreria/',
+          '/guias-administradores/',
         ]
+      },
+      {
+        text: 'videojuegos',
+        link: '/guias-videojuegos/'
       },
       {
         text: 'documentacion y repo',
@@ -75,6 +91,14 @@ module.exports = {
           {
             text: 'fundamentos diseño',
             link: 'https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/fundamentos-del-diseno/1/'
+          },
+          {
+            text: 'nodejs',
+            link: 'https://nodejs.org/en/docs/'
+          },
+          {
+            text: 'php',
+            link: 'https://php.net'
           }
         ]
       }
@@ -194,7 +218,7 @@ module.exports = {
       ],
       '/guias-webcomponets/': [
         {
-          title: 'svg',
+          title: 'web components',
           collapsable: true,
           children: [
             'README.md',
@@ -207,7 +231,7 @@ module.exports = {
       ],
       '/guias-fundamentos/': [
         {
-          title: 'svg',
+          title: 'fundamentos',
           collapsable: true,
           children: [
             'README.md',
@@ -225,7 +249,119 @@ module.exports = {
             'vcs.md'
           ]
         }
-      ]
+      ],
+      '/guias-interpretes/': [
+       {
+          title: 'interprete',
+          collapsable: true,
+          children: [
+            'README.md',
+            'package-manger.md'
+          ]
+        }
+      ],
+      '/guias-node/': [
+       {
+          title: 'node',
+          collapsable: true,
+          children: [
+            'README.md',
+            'core-modules.md'
+          ]
+        }
+      ],
+      '/guias-php/': [
+       {
+          title: 'php',
+          collapsable: true,
+          children: [
+            'README.md',
+            'variables.md',
+            'condicionales.md',
+            'ciclos.md',
+            'funciones.md',
+            'clases.md',
+            'misc.md'
+          ]
+        }
+      ],
+      '/guias-python/': [
+       {
+          title: 'python',
+          collapsable: true,
+          children: [
+            'README.md',
+            'variables.md',
+            'condicionales.md',
+            'ciclos.md',
+            'funciones.md',
+            'clases.md',
+            'misc.md'
+          ]
+        }
+      ],
+      '/guias-plantillas/': [
+       {
+          title: 'motores-de-plantillas',
+          collapsable: true,
+          children: [
+            'README.md',
+            'example.md',
+            'variables.md',
+            'ciclos-y-condicionales.md',
+            'layouts.md'
+          ]
+        }
+      ],
+      '/guias-preprocesadores/': [
+       {
+          title: 'preprocesadores',
+          collapsable: true,
+          children: [
+            'README.md',
+            'example.md',
+            'variables.md',
+            'nesting.md',
+            'mixins.md',
+            'partials.md',
+            'placeholders.md'
+          ]
+        }
+      ],
+      '/guias-transpiladores/': [
+       {
+          title: 'transpiladores',
+          collapsable: true,
+          children: [
+            'README.md',
+            'babel.md',
+            'typescript.md',
+          ]
+        }
+      ],
+      '/guias-framework-y-libreria/': [
+       {
+          title: 'frameworks-y-librerias',
+          collapsable: true,
+          children: [
+            'README.md',
+            'libreria.md',
+            'framework.md',
+            'diferencias.md',
+          ]
+        }
+      ],
+      '/guias-administradores/': [
+       {
+          title: 'administadores',
+          collapsable: true,
+          children: [
+            'README.md',
+            'administador-tareas.md',
+            'empaquetadores.md',
+          ]
+        }
+      ],
     },
   },
 }
