@@ -8,4 +8,4 @@ su importancia en el desarrollo web fue en el 2006 con la aparición de Jquery, 
 
 ## requisitos
 
-antes de utilizar una libreria o framework primero debes conocer el lenguaje base primero y mas importante
+antes de utilizar una libreria o framework primero debes conocer el lenguaje base primero y mas importante no te aprendas el framework o la libreria primero debido que te puedes perder en caso que la empresa te pida trabajos con tecnologias base sin frameworks ni librerias.
