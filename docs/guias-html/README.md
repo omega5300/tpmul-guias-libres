@@ -6,9 +6,6 @@ head:
   - - meta
     - name: description
       content: pagina de inicio para la seccion HTML
-  - - link
-    - rel: canonical
-      href: https://tpmul-guias.web.app/guias-html/
 ---
 
 # HTML

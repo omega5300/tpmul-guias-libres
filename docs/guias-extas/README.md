@@ -1,0 +1,3 @@
+# extras
+
+parte de desarrollo web concemos ciertos mundos pero seamos sinceros hay muchos mundos que no conocemos, y a la vez queremos conocer esta guia se habla mas de los cms y renderizados web támbien habra una lista de documentacion de tecnologias web que no se incluyeron para evitar sobre llenar la guia de forma inecesaria, execto el lenguaje puro, preprocesadores y motores de plantillas y la pagina de las guia coloque el link de vuepress.

@@ -5,6 +5,7 @@ module.exports = {
   title: 'TPMUL guias',
   description,
   head: [
+    ['link', { rel: 'canonical', href: 'href: https://tpmulguias.web.app' }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'keyword', content: 'tpmul, tpmul guias, produccion multimedia, tpmul omega5300, produccion multimedia sena, tpmul sena' }],
@@ -29,10 +30,6 @@ module.exports = {
   ],
   themeConfig: {
     navbar: [
-      {
-        text: 'fundamentos',
-        link: '/guias-fundamentos/'
-      },
       {
         text: 'diseño grafico',
         children: [
@@ -67,11 +64,12 @@ module.exports = {
           '/guias-transpiladores/',
           '/guias-framework-y-libreria/',
           '/guias-administradores/',
+          '/guias-extas/',
         ]
       },
       {
-        text: 'videojuegos',
-        link: '/guias-videojuegos/'
+        text: 'tpmul principal',
+        children: ['/guias-fundamentos/', '/guias-videojuegos/']
       },
       {
         text: 'documentacion y repo',
@@ -99,6 +97,38 @@ module.exports = {
           {
             text: 'php',
             link: 'https://php.net'
+          },
+          {
+            text: 'python',
+            link: 'https://docs.python.org/3/'
+          },
+          {
+            text: 'gulp',
+            link: 'https://gulpjs.com/docs/en/api/concepts'
+          },
+          {
+            text: 'grunt',
+            link: 'https://gruntjs.com/getting-started'
+          },
+          {
+            text: 'webpack',
+            link: 'https://webpack.js.org/concepts/'
+          },
+          {
+            text: 'rollup',
+            link: 'https://rollupjs.org/guide/en/'
+          },
+          {
+            text: 'vite',
+            link: 'https://vitejs.dev/guide/'
+          },
+          {
+            text: 'c#',
+            link: 'https://docs.microsoft.com/en-us/dotnet/csharp/'
+          },
+          {
+            text: 'figma',
+            link: 'https://help.figma.com/hc/en-us/categories/360002042553-Figma-design'
           }
         ]
       }
@@ -251,7 +281,7 @@ module.exports = {
         }
       ],
       '/guias-interpretes/': [
-       {
+        {
           title: 'interprete',
           collapsable: true,
           children: [
@@ -261,7 +291,7 @@ module.exports = {
         }
       ],
       '/guias-node/': [
-       {
+        {
           title: 'node',
           collapsable: true,
           children: [
@@ -271,7 +301,7 @@ module.exports = {
         }
       ],
       '/guias-php/': [
-       {
+        {
           title: 'php',
           collapsable: true,
           children: [
@@ -286,7 +316,7 @@ module.exports = {
         }
       ],
       '/guias-python/': [
-       {
+        {
           title: 'python',
           collapsable: true,
           children: [
@@ -301,7 +331,7 @@ module.exports = {
         }
       ],
       '/guias-plantillas/': [
-       {
+        {
           title: 'motores-de-plantillas',
           collapsable: true,
           children: [
@@ -314,7 +344,7 @@ module.exports = {
         }
       ],
       '/guias-preprocesadores/': [
-       {
+        {
           title: 'preprocesadores',
           collapsable: true,
           children: [
@@ -329,7 +359,7 @@ module.exports = {
         }
       ],
       '/guias-transpiladores/': [
-       {
+        {
           title: 'transpiladores',
           collapsable: true,
           children: [
@@ -340,7 +370,7 @@ module.exports = {
         }
       ],
       '/guias-framework-y-libreria/': [
-       {
+        {
           title: 'frameworks-y-librerias',
           collapsable: true,
           children: [
@@ -352,13 +382,47 @@ module.exports = {
         }
       ],
       '/guias-administradores/': [
-       {
+        {
           title: 'administadores',
           collapsable: true,
           children: [
             'README.md',
             'administador-tareas.md',
             'empaquetadores.md',
+          ]
+        }
+      ],
+      '/guias-videojuegos/': [
+        {
+          title: 'videojuegos',
+          collapsable: true,
+          children: [
+            'README.md',
+            'c-sharp.md',
+          ]
+        }
+      ],
+      '/guias-herramientas/': [
+        {
+          title: 'herramientas',
+          collapsable: true,
+          children: [
+            'README.md',
+            'photoshop.md',
+            'ilustrator.md',
+            'figma.md'
+          ]
+        }
+      ],
+      '/guias-extas/': [
+        {
+          title: 'extras',
+          collapsable: true,
+          children: [
+            'README.md',
+            'renders-web.md', 
+            'cms.md',
+            'directorio-tecnologias.md'
           ]
         }
       ],
