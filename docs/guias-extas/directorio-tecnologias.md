@@ -5,7 +5,7 @@ este pagina es para enviar a la documentacion de las tecnologias no mencionadas 
 tecnologias web:
 
 - [react](https://reactjs.org)
-- vue js: [vue 2](https://vuejs.org) y [vue 3](https://v3.vuejs.org)
+- [vue js](https://v3.vuejs.org)
 - [bootrap](https://getbootstrap.com) "mas usado en las versiones 3 y 4 pero la version 5 no incluye jquery"
 - [ionic](https://ionicframework.com)
 - [wordpress](https://wordpress.org/)
