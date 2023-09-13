@@ -5,7 +5,7 @@ en terminos para motores de plantillas son piezas de rompecabezas para recrear e
 ## ejs
 
 > head
-``` ejs
+``` erb
 <meta charset="UTF-8">
 <title>EJS Is Fun</title>
 
@@ -188,7 +188,7 @@ ul
 ## mustache
 
 > base
-``` mustache
+``` vue-html
 base.mustache:
 <h2>Names</h2>
 {{#names}}

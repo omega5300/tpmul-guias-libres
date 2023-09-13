@@ -3,20 +3,18 @@
   "version": "0.0.1",
   "description": "guias abiertas para el programa producción multimedia",
   "main": "index.js",
+  "type": "module",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "omega5300",
+    "email": "omegamatrix5351@gmail.com"
   },
   "repository": "/tpmul-guias",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vitepress dev docs --host",
+    "build": "vitepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^2.0.0-beta.25",
-    "@vuepress/plugin-pwa": "^2.0.0-beta.25",
-    "@vuepress/plugin-search": "^2.0.0-beta.24",
-    "vuepress": "^2.0.0-beta.27"
+    "vitepress": "^1.0.0-rc.12"
   }
 }

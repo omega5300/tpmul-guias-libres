@@ -2,7 +2,7 @@
 
 una de las ventajas mas notables es la inclusion de variables para la ventaja el uso tanto nuevos como existentes en los servidores
 
-``` ejs
+``` erb
 <%=name%>
 <%- include('user/show', {user: user}); %>
 ```
@@ -24,7 +24,7 @@ una de las ventajas mas notables es la inclusion de variables para la ventaja el
     Use as much text as you want.
 ```
 
-``` mustache
+``` vue-html
 * {{name}}
 * {{age}}
 * {{company}}

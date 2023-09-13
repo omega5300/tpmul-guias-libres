@@ -9,7 +9,7 @@ estos son algunos ejemplos debido que hay muchos
 - fotografia de paisaje: su uso es de montañas o enfocado en la naturaleza.<br>
 ![paisaje](/img/fotografia/paisaje.jpg)
 - fotografia de producto: su uso es en articulos o platos de un restaurante.<br>
-![producto](/img/fotografia/fotografia-producto.JPG)
+![producto](/img/fotografia/producto.jpg)
 - fotografia HDR: es una tecnica que depende de sumar varias imagenes para crear una imagen vibrante y de alto contraste en algunos smartphones y camaras tiene la funcion HDR de forma nativa.<br>
 ![hdr](/img/fotografia/hdr.jpg)
 - fotografia holi: es un uso de polvo especiales puede se estaticas o de velocidad variable de acuerdo con el fotográfo.<br>

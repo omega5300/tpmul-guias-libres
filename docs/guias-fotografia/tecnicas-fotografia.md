@@ -42,12 +42,12 @@ Se revela la foto con estrella y/o mostrando la via lactea.
 ## lightpainting
 
 esta tecnica es mas sencilla de utilizar a diferencia de la astro fotografia comparte el uso de tripode y el diafragma de la lente lo mas abierto posible pero no tal cerrado la diferencia radica que el uso de la iso debe se lo mas bajo que puedo el uso standard del iso para lightpainting es de 100 - 400 se usa como pintura una lamparas o esponjas de alamabre o vidrio "dependiendo como se dice cada pais fuera de colombia".<br>
-![light painting](/img/fotografia/light-painting.JPG)
+![light painting](/img/fotografia/light-painting.jpg)
 
 ## ráfaga
 
 esta técnica tiene como objetivo el disparo multiple de acuerdo con el maximo de fotografias que puede realizar la camara bajo la modalidad de disparo multiple o continuo para capturar el objeto.<br>
-![clave baja](/img/fotografia/rafaga.JPG)
+![clave baja](/img/fotografia/rafaga.jpg)
 
 ## gota de agua
 
@@ -57,14 +57,14 @@ esta técnica es una fotografia de alta velocidad que debes de tener paciencia p
 ## bokeh
 
 esta técnica se utiliza la apertura de diafragma de la lente controlas no solo la entrada de la luz tambien la profundidad de campo el resultado se vera desenfocado el fondo pero se llena de luces de colores no importa si son circulares u otras formas.<br>
-![clave baja](/img/fotografia/bokeh.JPG)
+![clave baja](/img/fotografia/bokeh.jpg)
 
 ## zooming
 
 esta técnica de uso hibrido puede ser empleado por camaras de lentes intercambiables o por edición digital como Photoshop o similares.
 
 se debes emplear bien el zoom de la lente y manejo correcto de la apertura de diafragma y velocidad de obturación de forma correcta.<br>
-![zooming](/img/fotografia/zooming.JPG)
+![zooming](/img/fotografia/zooming.jpg)
 
 ## multiexposición
 
@@ -73,7 +73,7 @@ esta técnica de uso hibrido es igual a la técnica zooming pero con diferentes 
 1. Si trabajamos con cámaras debemos buscar ambientes o ubicaciones con fondo negro, la velocidad de obturacion debe se lo mas lento posible y fondo negro para realizar la simulacion que una persona puede esta en varios lugares al mismo tiempo.
 
 2. en caso que es edicion digital debes tener un tripode y una ubicación solo puedes tomar fotos normales *es recomendable tener a alguien para tomar la n cantidad como sea necesario o usar un temporizador*.<br>
-![clave baja](/img/fotografia/multiexposicion.JPG)
+![clave baja](/img/fotografia/multiexposicion.jpg)
 
 ## doble exposición
 
@@ -83,7 +83,7 @@ esta tecnica es mas de edición digital pero tambien es empleado en algunas cama
 ## monocromatico
 
 esta técnica es el uso de blanco y negro o uso de pocos colores lo tiene todas las camaras digitales de mercado ya que es un filtro nativo o tambien se puede emplear de edición digital.<br>
-![monocromatico](/img/fotografia/monocromatico.JPG)
+![monocromatico](/img/fotografia/monocromatico.jpg)
 
 ::: tip referencia
 esto fue sacado de este sitio: [tecnicas de fotográfia](https://www.blogdelfotografo.com/tecnicas-fotograficas/)

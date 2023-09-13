@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "docs/.vuepress/dist",
+    "public": "docs/.vitepress/dist",
     "ignore": [
       "firebase.json",
       "**/.*",

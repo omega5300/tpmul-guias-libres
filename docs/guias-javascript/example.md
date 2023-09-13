@@ -8,7 +8,7 @@ javascript es un lenguaje multiproposito se puede usar de varias formas
   node # si trabajas para probar
   ```
   ::: tip referencia
-  la opcion de node aqui: [guia de node](/guia-node/)
+  la opcion de node aqui: [guia de node](/guias-node/)
   :::
 - escribiendo desde la etiqueta script
   ``` html

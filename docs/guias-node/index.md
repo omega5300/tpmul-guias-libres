@@ -54,7 +54,8 @@ import 'os' // ESM
 
 /* todo el modulo */
 const path = require('path') // CJS
-import path from 'path' // ESM
+import path from 'path' // ESM metodo 1
+import * as path from 'path' // ESM como alias
 
 /* uso de destructuring */
 const { join } = require('path') // CJS
@@ -62,8 +63,10 @@ import { join } from 'path' // ESM
 
 /* archivo js no incluyo destrucring es la misma forma */ 
 const example = require('./example') // CJS
-import example from './example' // ESM
+import example from './example.js' // ESM
 ```
+
+> en el metodo import el archivo importado debe especificar el fichero .js, .cjs & .mjs
 
 ## ejecuccion
 
@@ -121,7 +124,7 @@ assert.strictEqual(require('node:fs'), realFs);
 
 es module tambien conocidos como ecmascript modulos o ESM son la nueva forma de invocar modulos tanto el navegador como en node son nativos desde ES6 y node js de forma nativa.
 
-> el uso de los es modules tiene una desventaja a usarlo debe colocar un parametro en el package.json "type":"module"
+> el uso de los es modules tiene una desventaja a usarlo debe colocar un parametro en el package.json "type":"module" 
 
 ``` js
 import 'dotenv' // import sin export
@@ -142,6 +145,13 @@ export {
 
 export default example // export main module
 ```
+
+::: tip info
+los archivos .mjs se puede ejecutar libremente en nodejs
+```sh
+node example.mjs
+```
+:::
 
 ## process
 

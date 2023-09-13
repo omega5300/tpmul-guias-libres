@@ -2,7 +2,7 @@
 
 otra de las ventajas la momento de trabaja con motores de plantillas es el uso de ciclos y condicionales
 
-``` ejs
+``` erb
 <% if (user) { %>
   <h2><%= user.name %></h2>
 <% } %>
@@ -69,7 +69,7 @@ each item in list
   li= item
 ```
 
-``` mustache
+``` vue-html
 {{! conditionals }}
 {{#repo}}
   <b>{{name}}</b>

@@ -2,7 +2,7 @@
 
 en la parte anterior hemos mencionado los motores de plantillas mas conocidos y a la vez usados en esta guia solo mencionamos los ejemplos de uso de cada motor de plantillas
 
-``` ejs
+``` erb
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,7 +51,7 @@ html
         p some footer content
 ```
 
-``` mustache
+``` vue-html
 <html>
   <body onload="renderHello()">
     <div id="target">Loading...</div>

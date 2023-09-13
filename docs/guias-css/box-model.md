@@ -45,8 +45,8 @@ en CSS tenemos diferentes tipos de pantalla (display), todos los cuales tienen u
 - gird (es usado para el diseño responsive basado en grillas)
 
 ::: tip flexbox y grid
-guia mas completa y detallada en: [guia de flexbox](/guias-css/flexbox.html) <br>
-guia mas completa y detallada en: [guia de grid](/guias-css/gird.html)
+guia mas completa y detallada en: [guia de flexbox](/guias-css/flexbox) <br>
+guia mas completa y detallada en: [guia de grid](/guias-css/grid)
 :::
 
 ## width y height

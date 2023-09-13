@@ -14,7 +14,8 @@ diferencias de los core modules con los otros tipos de modulos:
 el modulo os se usa para revisar el hardware y software de nuestro equipo esta compuesto de muchas funciones estas son las siguientes:
 
 ``` js
-const os = require('os');
+const os = require('os'); // before node 18
+const os = require('node:os'); // node 18+
 
 // informacion de cpus
 os.cpus();
@@ -43,7 +44,8 @@ os.uptime();
 el modulo fs o conocido como file system se para realizar lectura y escritura de archivos.
 
 ``` js
-const fs = reuqire('fs');
+const fs = reuqire('fs'); // before node 18
+const fs = reuqire('node:fs'); // node 18+
 
 fs.readFile('./text.txt', (error, data) => {
   error ? console.error(error) : console.log(data.toString());
@@ -59,7 +61,8 @@ fs.writeFile('./test.txt', 'Node.js is awesome again', (error, data) => {
 es modulo es usado para la creación de servidores web sin la necesidad de usar apache o nginx para el desarrollo de apps de server o web
 
 ``` js
-const http = require('http');
+const http = require('http'); // before node 18
+const http = require('node:http'); // node 18+
 
 http.createServer((req, res) => {
   res.setHeader('Content-Type', 'text/html');
