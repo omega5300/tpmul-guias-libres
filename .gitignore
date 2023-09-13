@@ -1,6 +1,9 @@
 /node_modules
 package-lock.json
 yarn.lock
+firebase.json
+.firebase
+.firebaserc
 /dist
 docs/.vitepress/.cache
 docs/.vitepress/.temp
