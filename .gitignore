@@ -2,7 +2,7 @@
 package-lock.json
 yarn.lock
 firebase.json
-.firebase
+/.firebase
 .firebaserc
 /dist
 docs/.vitepress/.cache
